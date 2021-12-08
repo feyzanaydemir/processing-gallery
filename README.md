@@ -1,5 +1,5 @@
 # Algorithm Artbook
 
-Collection of images created by implementing various algorithms in p5.js.
+NodeJS application for displaying a collection of images created by implementing various algorithms in p5.js.
 
-![Preview](./website/preview.png)
+![Preview](./preview.png)
