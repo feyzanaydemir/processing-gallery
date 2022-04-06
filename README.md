@@ -2,13 +2,14 @@
 
 ![Preview](preview.png)
 
-Algorithm Gallery is a collection of Processing sketches. Sketches are the Python implementations of Daniel Shiffman's Coding Challenges with slight modifications. You can see the original Java and JavaScript versions [here](https://thecodingtrain.com/CodingChallenges/). The project website was built with Node.js and Express.js.
+Algorithm Gallery is a collection of Processing sketches. The sketches are the Python implementations of Daniel Shiffman's Coding Challenge series with slight modifications. You can see the original Java and JavaScript versions [here](https://thecodingtrain.com/CodingChallenges/). The project website was built with Node.js and Express.js.
 
 - ### [See Website](https://algorithmgallery.herokuapp.com/)
 
 ## List
 
 - DFS Maze: [Directory](sketches/dfs_maze) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/urr4nLyuC)
+- Fractal Trees OOP: [Directory](sketches/fractal_trees_oop) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/cGsK2LzGP)
 - Lorenz Attractor: [Directory](sketches/lorenz_attractor) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/vmlTm3jZA)
 - Menger Sponge Fractal: [Directory](sketches/menger_sponge_fractal) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/L3PK7DunV)
 - Neon Rain: [Directory](sketches/neon_rain) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/7mU_b6Qah)
@@ -20,5 +21,4 @@ Algorithm Gallery is a collection of Processing sketches. Sketches are the Pytho
 ## Resources
 
 - [Processing.py](https://py.processing.org/)
-- [Daniel Shiffman](https://shiffman.net/)
 - [The Coding Train](https://thecodingtrain.com/)
