@@ -9,6 +9,7 @@ Algorithm Gallery is a collection of Processing sketches. The sketches are the P
 ## List
 
 - DFS Maze: [Directory](sketches/dfs_maze) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/urr4nLyuC)
+- Fractal Trees 3D: [Directory](sketches/fractal_trees_3d) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/B3dfzBf4s)
 - Fractal Trees L System: [Directory](sketches/fractal_trees_l_system) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/qGTI6pxGd)
 - Fractal Trees OOP: [Directory](sketches/fractal_trees_oop) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/cGsK2LzGP)
 - Lorenz Attractor: [Directory](sketches/lorenz_attractor) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/vmlTm3jZA)
