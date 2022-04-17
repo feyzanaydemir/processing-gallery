@@ -2,7 +2,7 @@
 
 ![Preview](preview.png)
 
-Algorithm Gallery is a collection of Processing sketches. The sketches are the Python implementations of Daniel Shiffman's Coding Challenge series with slight modifications. You can see the original Java and JavaScript versions [here](https://thecodingtrain.com/CodingChallenges/). The project website was built with Node.js and Express.js.
+Algorithm Gallery is a collection of Processing sketches, which are the Python implementations of Daniel Shiffman's Coding Challenge series with slight modifications. You can see the original Java and JavaScript versions [here](https://thecodingtrain.com/CodingChallenges/). The project website was built with Node.js and Express.js.
 
 - ### [See Website](https://algorithmgallery.herokuapp.com/)
 
@@ -12,6 +12,7 @@ Algorithm Gallery is a collection of Processing sketches. The sketches are the P
 - Fractal Trees 3D: [Directory](sketches/fractal_trees_3d) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/B3dfzBf4s)
 - Fractal Trees L System: [Directory](sketches/fractal_trees_l_system) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/qGTI6pxGd)
 - Fractal Trees OOP: [Directory](sketches/fractal_trees_oop) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/cGsK2LzGP)
+- Fractal Trees Space Colonization: [Directory](sketches/fractal_trees_space_colonization) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/XiTEAk4cv)
 - Lorenz Attractor: [Directory](sketches/lorenz_attractor) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/vmlTm3jZA)
 - Menger Sponge Fractal: [Directory](sketches/menger_sponge_fractal) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/L3PK7DunV)
 - Neon Rain: [Directory](sketches/neon_rain) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/7mU_b6Qah)
