@@ -13,6 +13,7 @@ Algorithm Gallery is a collection of Processing sketches, which are the Python i
 - Fractal Trees L System: [Directory](sketches/fractal_trees_l_system) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/qGTI6pxGd)
 - Fractal Trees OOP: [Directory](sketches/fractal_trees_oop) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/cGsK2LzGP)
 - Fractal Trees Space Colonization: [Directory](sketches/fractal_trees_space_colonization) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/XiTEAk4cv)
+- Julia Set: [Directory](sketches/julia_set) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/gqukZ3VmF)
 - Lorenz Attractor: [Directory](sketches/lorenz_attractor) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/vmlTm3jZA)
 - Menger Sponge Fractal: [Directory](sketches/menger_sponge_fractal) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/L3PK7DunV)
 - Neon Rain: [Directory](sketches/neon_rain) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/7mU_b6Qah)
