@@ -15,6 +15,7 @@ Algorithm Gallery is a collection of Processing sketches, which are the Python i
 - Fractal Trees Space Colonization: [Directory](sketches/fractal_trees_space_colonization) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/XiTEAk4cv)
 - Julia Set: [Directory](sketches/julia_set) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/gqukZ3VmF)
 - Lorenz Attractor: [Directory](sketches/lorenz_attractor) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/vmlTm3jZA)
+- Mandelbrot Set: [Directory](sketches/mandelbrot_set) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/hJ81Frydu)
 - Menger Sponge Fractal: [Directory](sketches/menger_sponge_fractal) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/L3PK7DunV)
 - Neon Rain: [Directory](sketches/neon_rain) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/7mU_b6Qah)
 - Perlin Noise Terrain: [Directory](sketches/perlin_noise_terrain) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/MsmcYDI7L)
