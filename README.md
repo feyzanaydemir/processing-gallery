@@ -21,6 +21,7 @@ Algorithm Gallery is a collection of Processing sketches, which are the Python i
 - Neon Rain: [Directory](sketches/neon_rain) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/7mU_b6Qah)
 - Perlin Noise Terrain: [Directory](sketches/perlin_noise_terrain) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/MsmcYDI7L)
 - Phyllotaxis: [Directory](sketches/phyllotaxis) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/Fb73lMc1N)
+- Poission Disc: [Directory](sketches/poission_disc) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/fhac3S6iR)
 - Solar System 2D: [Directory](sketches/solar_system_2d) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/Tf196VW7Z)
 - Solar System 3D: [Directory](sketches/solar_system_3d) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/0Lc2mWEyQ)
 - Starfield: [Directory](sketches/starfield) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/boC-VZdIG)
