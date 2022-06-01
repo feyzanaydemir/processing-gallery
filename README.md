@@ -25,6 +25,7 @@ Algorithm Gallery is a collection of Processing sketches, which are the Python i
 - Solar System 2D: [Directory](sketches/solar_system_2d) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/Tf196VW7Z)
 - Solar System 3D: [Directory](sketches/solar_system_3d) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/0Lc2mWEyQ)
 - Starfield: [Directory](sketches/starfield) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/boC-VZdIG)
+- Supershape: [Directory](sketches/supershape) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/M-kcTWK9T)
 
 ## Resources
 
