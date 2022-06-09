@@ -2,9 +2,9 @@
 
 ![Preview](preview.png)
 
-Algorithm Gallery is a collection of Processing sketches, which are the Python implementations of Daniel Shiffman's Coding Challenge series with slight modifications. You can see the original Java and JavaScript versions [here](https://thecodingtrain.com/CodingChallenges/). The project website was built with Node.js and Express.js.
-
 - ### [See Website](https://algorithmgallery.herokuapp.com/)
+
+Algorithm Gallery is a collection of Processing sketches, which are the Python implementations of Daniel Shiffman's Coding Challenge series with slight modifications. You can see the original Java and JavaScript versions [here](https://thecodingtrain.com/CodingChallenges/). The project website was built with Node.js and Express.js.
 
 ## List
 
@@ -13,6 +13,7 @@ Algorithm Gallery is a collection of Processing sketches, which are the Python i
 - Fractal Trees L System: [Directory](sketches/fractal_trees_l_system) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/qGTI6pxGd)
 - Fractal Trees OOP: [Directory](sketches/fractal_trees_oop) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/cGsK2LzGP)
 - Fractal Trees Space Colonization: [Directory](sketches/fractal_trees_space_colonization) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/XiTEAk4cv)
+- Glitch: [Directory](sketches/glitch) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/kF8nJwMhY)
 - Julia Set: [Directory](sketches/julia_set) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/gqukZ3VmF)
 - Lorenz Attractor: [Directory](sketches/lorenz_attractor) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/vmlTm3jZA)
 - Mandelbrot Set: [Directory](sketches/mandelbrot_set) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/hJ81Frydu)
