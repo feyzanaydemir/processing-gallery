@@ -17,6 +17,7 @@ You can download this whole repository by running `git clone https://github.com/
 ## List
 
 - Attraction and Repulsion: [Python](sketches/attraction_and_repulsion)
+- Circle Packing: [Python](sketches/circle_packing)
 - Fractal Trees - 3D: [Python](sketches/fractal_trees_3d) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/B3dfzBf4s)
 - Fractal Trees - L System: [Python](sketches/fractal_trees_l_system) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/qGTI6pxGd)
 - Fractal Trees - OOP: [Python](sketches/fractal_trees_oop) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/cGsK2LzGP)
@@ -33,6 +34,7 @@ You can download this whole repository by running `git clone https://github.com/
 - Perlin Noise Terrain: [Python](sketches/perlin_noise_terrain) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/MsmcYDI7L)
 - Phyllotaxis: [Python](sketches/phyllotaxis) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/Fb73lMc1N)
 - Poission Disc: [Python](sketches/poission_disc) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/fhac3S6iR)
+- Random Walker: [Python](sketches/random_walker)
 - Rose Patterns: [Python](sketches/rose_patterns)
 - Solar System - 2D: [Python](sketches/solar_system_2d) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/Tf196VW7Z)
 - Solar System - 3D: [Python](sketches/solar_system_3d) | [p5.js Editor](https://editor.p5js.org/feyzan/sketches/0Lc2mWEyQ)
