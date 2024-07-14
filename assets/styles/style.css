@@ -74,6 +74,17 @@ a {
   color: white;
 }
 
+.gallery img {
+  height: 90%;
+}
+
+.gallery a {
+  height: 10%;
+  text-wrap: wrap;
+  max-width: 320px;
+  text-align: center;
+}
+
 .github-mark {
   max-width: 35px;
   pointer-events: all;
