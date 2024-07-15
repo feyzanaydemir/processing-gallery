@@ -6,11 +6,11 @@
 
 [Processing](https://processing.org/) is a graphical library and IDE built for coding within the context of visual arts. Processing mainly uses Java but it has different programming modes to make it possible to deploy sketches on different platforms and program in different ways (JavaScript, JRuby, Python, Clojure). Processing Gallery is a collection of Processing sketches written in Python. The majority of the sketches were inspired by Daniel Shiffman's original [Java and JavaScript versions](https://thecodingtrain.com/challenges).
 
-- ### [See Website](https://processinggallery.onrender.com/)
+- ### [See Website](https://feyzanaydemir.github.io/processing-gallery/)
 
 ## Installation
 
-You can download and install Processing from [here](https://processing.org/download). Processing doesn't include support for the Python programming language by default. In order to enable Python support, you'll need to install an add-on called Python Mode. You can do this by clicking on the drop-down menu on the right side of the tool bar and selecting **"Add Mode..."** A window with the title **"Mode Manager"** will appear. Scroll down until you see **"Python"** and press **"Install"**. If you want to learn more about Python Mode visit [Processing.py](https://py.processing.org/).
+You can download and install Processing from [here](https://processing.org/download). Processing doesn't include support for the Python programming language by default. In order to enable Python support, you'll need to install an add-on called Python Mode. You can do this by clicking on the drop-down menu on the right side of the tool bar and selecting **"Add Mode..."**. A window with the title **"Mode Manager"** will appear. Scroll down until you see **"Python"** and press **"Install"**. If you want to learn more about Python Mode visit [Processing.py](https://py.processing.org/).
 
 You can download this whole repository by running `git clone https://github.com/feyzanaydemir/processing-gallery.git`, or you can individually download sketches from the list below.
 
